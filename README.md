@@ -1,4 +1,4 @@
 # eulersolutions
 Project Euler solutions in python. 
+Originally started to better learn the python language.
 
-Pushed from 8 because I started working in Java, but wanted to learn python.
